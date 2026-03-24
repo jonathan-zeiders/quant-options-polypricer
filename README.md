@@ -1,2 +1,2 @@
-# quant-options-polypricer
+# Poppy (Python Options Poly-Pricer)
 Python project to calculate options pricing via several models (Black-Scholes, etc) to catch inefficiencies
